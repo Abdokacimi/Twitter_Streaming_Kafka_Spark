@@ -6,10 +6,10 @@ from kafka import KafkaProducer
 import json
 
 # Set up your credentials from https://developer.twitter.com
-CONSUMER_KEY = "94U2UmKWwsjCnoCOJb6hSR2uk"
-CONSUMER_SECRET = "byIxMFPkq7NLk6mHspZqFplyWvJfuE5MuHHyJOBxcWBlXUAaSm"
-ACCESS_TOKEN = "1346502386165153793-3EOMQpGqdQyxoRnZ9Dsi8mgHgf25BT"
-ACCESS_SECRET = "qnFzMO2A478jLFvMVfgweHHHHxjeNi2DQLXVmM8YHxO43"
+CONSUMER_KEY = " "
+CONSUMER_SECRET = " "
+ACCESS_TOKEN = " "
+ACCESS_SECRET = " "
 
 
 # we can now start producing messages to tweets_topic

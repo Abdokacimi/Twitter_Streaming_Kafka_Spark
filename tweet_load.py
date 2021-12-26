@@ -4,7 +4,7 @@ from requests.models import CONTENT_CHUNK_SIZE
 hostname = 'localhost'
 database = 'twitter_users'
 username = 'postgres'
-pwd = '365pass'
+pwd = ' '
 port_id = 5434
 # ================= Loading stage !=======================
 
