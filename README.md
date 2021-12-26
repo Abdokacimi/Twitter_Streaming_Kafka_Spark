@@ -1,0 +1,2 @@
+# Twitter_Streaming_Kafka_Spark
+My Insight Data Engineering project. I implemented a parallel big data processing pipelines , that streams real-time users data and loading it to a PostgreSQL DATABASE using open source tools - ​Apache Kafka ​for data ingestions, and aggregates in specific window time  most popular hashtags world wide using open source tools - Apache Spark ​&amp; ​Spark Streaming ​for batch &amp; real-time processing.
