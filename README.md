@@ -30,7 +30,7 @@ My Insight Data Engineering project. I implemented a parallel big data processin
   export PYSPARK_DRIVER_PYTHON=/usr/bin/python3.7 
  ```
 
-## Run the following commands
+## Run the following command
 
 ```Bash
   tar -xzf kafka_2.12-3.0.0.tgz
