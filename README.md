@@ -9,3 +9,12 @@ My Insight Data Engineering project. I implemented a parallel big data processin
 * kafka_2.12-3.0.0
 * WSL using Ubuntu distribution
  
+## Set environment variables
+
+```Bash
+  export SPARK_HOME=/usr/local/spark
+  export PATH=$PATH:$SPARK_HOME/bin
+  
+  export PYSPARK_PYTHON=/usr/bin/python3.7
+  export PYSPARK_DRIVER_PYTHON=/usr/bin/python3.7 
+ ```
