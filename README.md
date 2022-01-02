@@ -36,9 +36,6 @@ My Insight Data Engineering project. I implemented a parallel big data processin
   tar -xzf kafka_2.12-3.0.0.tgz
 ```
 
-```Bash
-  tar -xzf kafka_2.12-3.0.0.tgz
-```
 
 ## Start ZooKeeper
 
