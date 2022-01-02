@@ -1,6 +1,12 @@
 # Twitter_Streaming_Kafka_Spark
 My Insight Data Engineering project. I implemented a parallel big data processing pipelines , that streams real-time users data and load it to a PostgreSQL DATABASE using open source tools - ​Apache Kafka ​for data ingestions, and aggregates in specific window time  most popular hashtags world wide using open source tools - Apache Spark ​&amp; ​Spark Streaming ​for batch &amp; real-time processing.
 
+## Architecture
+
+![Diagram](https://user-images.githubusercontent.com/44294643/147892080-dde757ab-79a1-434a-a4b6-ce00872c659e.PNG)
+
+
+
 ## Install requirments
 
 * Python version 3.7 (Otherwise will not be able to use KafkaUtils sub-module)
