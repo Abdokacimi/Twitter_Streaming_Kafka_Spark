@@ -9,7 +9,7 @@ My Insight Data Engineering project. I implemented a parallel big data processin
 
 ## Install requirments
 
-* Python version 3.7 (Otherwise will not be able to use KafkaUtils sub-module)
+* Python version 3.7 (Otherwise you will not be able to use KafkaUtils sub-module)
 * pyspark version 2.4.5
 * kafka-python Client
 * kafka_2.12-3.0.0.tgz
